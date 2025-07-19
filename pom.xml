@@ -16,7 +16,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <maven.compiler.release>17</maven.compiler.release>
         <vaadin.version>8.0.0.alpha2</vaadin.version>
-        <jacoco.version>0.8.6</jacoco.version>
+        <jacoco.version>0.8.10</jacoco.version>
     </properties>
 
     <repositories>
